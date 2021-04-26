@@ -1,0 +1,31 @@
+ion-content{
+  background: linear-gradient(to bottom, #00266E , #415F9A)
+}
+
+h1 {
+  color: #FFFFFF;
+  font-family: sans-serif
+}
+
+p {
+  color: #FFFFFF;
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+ion-item {
+  color: #ACE8FF;
+}
+
+ion-input {
+  color:black
+}
+
+button {
+  color: #ACE8FF;
+}
+
+h2 {
+  color: navy;
+  font-family: sans-serif
+}
